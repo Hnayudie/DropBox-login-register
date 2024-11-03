@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">DropBox</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">User</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Take your stuff \n anywhere</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_fb">Sign in with Facebook</string>
+    <string name="or">Or</string>
+    <string name="continue_with_email">Continue with Email</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in_to_dropbox">Log in to Dropbox</string>
+    <string name="having_trouble_logging_in">Having trouble logging in?</string>
+    <string name="log_in_with_google">Log in with Google</string>
+    <string name="log_in">Log in</string>
+    <string name="welcome_to_dropbox_2">Welcome to dropbox</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_email">Continue with Email</string>
+    <string name="having_trouble_signing_in">Having trouble signing in?</string>
+    <string name="title_my_files">My Files</string>
+    <string name="title_storage">Storage</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_help">Help</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="shared">Shared</string>
+    <string name="see_all">See all</string>
+    <string name="home_starred_text">Quick access.</string>
+    <string name="home_viewed_links_text">Links you\'ve previously viewed show up here.</string>
+    <string name="todo">TODO</string>
+    <string name="sign_out_of_this_dropbox">Sign out of this Dropbox</string>
+    <string name="trouble_signing_in">Trouble signing in</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="single_sign_on">Single sign-on</string>
+    <string name="email_me_a_sign_in_link">Email me a sign-in link</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_music">Music</string>
+    <string name="title_pictures">Pictures</string>
+    <string name="title_user">User</string>
+    <string name="title_storage_fragment">Storage</string>
+    <string name="title_movie_fragment">Movies</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+
+    <string name="facebook_app_id">1005736177976501</string>
+    <string name="fb_login_protocol_scheme">fb1005736177976501</string>
+    <string name="facebook_client_token">8033e1ebf5856a7866819c71110bf210</string>
+
+
+
+</resources>
